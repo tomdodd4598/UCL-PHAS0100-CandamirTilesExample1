@@ -1,6 +1,6 @@
-BumbleNassExample1
-----------------
+CandamirTilesExample1
+---------------------
 
-[![Build status](https://ci.appveyor.com/api/projects/status/qjjifp5vt34oq07f/branch/main?svg=true)](https://ci.appveyor.com/project/tomdodd4598/ucl-phas0100-bumblenassexample1)
+[![Build status](https://ci.appveyor.com/api/projects/status/fj6vdamh7bo26w3b/branch/main?svg=true)](https://ci.appveyor.com/project/tomdodd4598/ucl-phas0100-candamirtilesexample1)
 
-This is Bumble Nass Example 1. Enjoy.
+This is Candamir Tiles Example 1. Enjoy.
